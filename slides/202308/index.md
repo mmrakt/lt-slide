@@ -199,6 +199,18 @@ node_modules
 
 ---
 
+
+## パフォーマンス
+
+https://blog.logrocket.com/javascript-package-managers-compared/
+
+<img src="img/benchmark.png" style="margin-top: 30px;">
+
+
+---
+
+
+
 ## 未調査
 
 - pnp モードかつ not zero-install 時のメリットは何か？
